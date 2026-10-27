@@ -1,8 +1,8 @@
  
 # BIT 2118 Scientific Computing - Group Project
 
-**Student:** DAVINE CHELAGAT
- **Reg No:** BSCCS/2025/54160
+**Student:** GERALD WAMBUA
+ **Reg No:** BSCCS/2025/50327
 **Course:** BIT 2118 Scientific Computing 
  **Semester:**  Sept-Dec 2026
 
